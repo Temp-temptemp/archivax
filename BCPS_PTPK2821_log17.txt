@@ -1,0 +1,227 @@
+0
+
+
+
+                B L A C K C O C K P I G S L U T T U L S G I P K C O C K C A L B
+              T ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⠛⠋⠉⠙⠻⠿⠿⠿⠿⢿⣿⣿⣿⣿⣿⣿ B ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⠛⠋⠉⠙⠻⠿⠿⠿⠿⢿⣿⣿⣿⣿⣿⣿ T
+              U ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⠄⠄⠄⠄⠄⠄⠄⠄⠹⣿⣿⣶⣶⣦⣬⢹⣿⣿ L ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⠄⠄⠄⠄⠄⠄⠄⠄⠹⣿⣿⣶⣶⣦⣬⢹⣿⣿ U
+              L ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠄⠄⠄⣰⣧⡀⠄⠄⠄⠄⠈⢙⡋⣿⣿⣿⢸⣿⣿ A ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠄⠄⠄⣰⣧⡀⠄⠄⠄⠄⠈⢙⡋⣿⣿⣿⢸⣿⣿ L
+              S ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄⠰⠼⠻⣿⣿⣦⣄⠄⠄⠄⠈⢡⣿⣿⣿⢸⣿⣿ C ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄⠰⠼⠻⣿⣿⣦⣄⠄⠄⠄⠈⢡⣿⣿⣿⢸⣿⣿ S
+              G ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄⠸⠤⠕⠛⠙⠷⣿⡆⠄⠄⠄⣸⣿⣿⡏⣼⣿⣿ K ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄⠸⠤⠕⠛⠙⠷⣿⡆⠄⠄⠄⣸⣿⣿⡏⣼⣿⣿ G
+              I ⣿⣿⣿⣿⣿⣿⣿⣿⡇⠄⠄⠄      ⠄⠄⠄⣴⣿⣿⣿⢡⣿⣿⣿ C ⣿⣿⣿⣿⣿⣿⣿⣿⡇⠄⠄⠄      ⠄⠄⠄⣴⣿⣿⣿⢡⣿⣿⣿ I
+              P ⣿⣿⣿⣿⣿⣿⣿⡟⠄⠄⠄⠄⠄⣄ ⢀⠄⠄⠄⣤⣾⣿⣿⣿⢃⣾⣿⣿⣿ O ⣿⣿⣿⣿⣿⣿⣿⡟⠄⠄⠄⠄⠄⣄ ⢀⠄⠄⠄⣤⣾⣿⣿⣿⢃⣾⣿⣿⣿ P
+              K ⣿⣿⣿⣿⣿⠿⣛⣡⣄⣀⠄⠠⢴⣿⣿⡿⣄⣴⣿⣿⣿⣿⣿⢃⣾⣿⣿⣿⣿ C ⣿⣿⣿⣿⣿⠿⣛⣡⣄⣀⠄⠠⢴⣿⣿⡿⣄⣴⣿⣿⣿⣿⣿⢃⣾⣿⣿⣿⣿ K
+              C ⣿⣿⣿⣿⡏⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣩⡽⡁⢸⣿⣿⣿⣿⣿ K ⣿⣿⣿⣿⡏⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣩⡽⡁⢸⣿⣿⣿⣿⣿ C
+              O ⣿⣿⣿⣿⢃⣿⣿⢟⣿⣿⣿⣿⣿⣮⢫⣿⣿⣿⣿⣿⣟⢿⠃⠄⢻⣿⣿⣿⣿ P ⣿⣿⣿⣿⢃⣿⣿⢟⣿⣿⣿⣿⣿⣮⢫⣿⣿⣿⣿⣿⣟⢿⠃⠄⢻⣿⣿⣿⣿ O
+              C ⣿⣿⣿⡿⣸⠟⣵⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣷⣄⢰⡄⢿⣿⣿⣿ I ⣿⣿⣿⡿⣸⠟⣵⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣷⣄⢰⡄⢿⣿⣿⣿ C
+              K ⣿⣿⣿⡇⠏⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠹⡎⣿⣿⣿ G ⣿⣿⣿⡇⠏⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠹⡎⣿⣿⣿ K
+              C ⣍⠛⠿⠄⢰⠋⡉⠹⣿⣿⣿⣿⣿⣿⠙⣿⣿⣿⣿⣿⣿⡟⢁⠙⡆⢡⣿⣿⣿ S ⣍⠛⠿⠄⢰⠋⡉⠹⣿⣿⣿⣿⣿⣿⠙⣿⣿⣿⣿⣿⣿⡟⢁⠙⡆⢡⣿⣿⣿ C
+              A ⣿⡆⠄⣤⠈⢣⣈⣠⣿⣿⣿⣿⣿⠏⣄⠻⣿⣿⣿⣿⣿⣆⣈⣴⠃⣿⣿⣿⣿ L ⣿⡆⠄⣤⠈⢣⣈⣠⣿⣿⣿⣿⣿⠏⣄⠻⣿⣿⣿⣿⣿⣆⣈⣴⠃⣿⣿⣿⣿ A
+              L ⠈⢿⠄⣿⡇⠄⠙⠿⣿⡿⠿⢋⣥⣾⣿⣷⣌⠻⢿⣿⣿⡿⠟⣡⣾⣿⣿⠿⢋ U ⠈⢿⠄⣿⡇⠄⠙⠿⣿⡿⠿⢋⣥⣾⣿⣷⣌⠻⢿⣿⣿⡿⠟⣡⣾⣿⣿⠿⢋ L
+              B ⠳⠄⢠⣿⠇⠄⣷⡑⢶⣶⢿⣿⣿⣿⣽⣿⣿⣿⣶⣶⡐⣶⣿⠿⠛⣩⡄⠄⢸ T ⠳⠄⢠⣿⠇⠄⣷⡑⢶⣶⢿⣿⣿⣿⣽⣿⣿⣿⣶⣶⡐⣶⣿⠿⠛⣩⡄⠄⢸ B
+               T U L S G I P K C O C K C A L B B L A C K C O C K P I G S L U T
+
+
+
+[:]____________________________________________________________________________________________[:]
+[:]____________________________________________________________________________________________[:]
+
+
+[BCPS:HIST:LOG:17]
+
+[Chi:Ill : Roadtrip to NY]
+
+
+[:]____________________________________________________________________________________________[:]
+
+        "Once upon a time, a couple of early internet hypnotards actually went out and followed
+through... these are their stories."
+
+[:]____________________________________________________________________________________________[:]
+
+	We knew it was going to be a wild night and we were preparing accordingly. We had both 
+taken so much edibles we were out of our minds. We both kneeled in front of the television in the
+hotel room, passing a joint back and forth as we stared into the Black Power worship hypno porn
+we had blasting at maximum volume with the screen at maximum brightness. The lights in the room
+were off and the tv was at its top brightness. 
+
+	I took the joint from Peggy and continued to lightly grind against the medium sized
+rubber Black Power fist toy in my ass. I looked up at the screen and stared wide eyed watching
+the words flash across the screen in a mind numbing glitch patter. 
+
+WHITE PIGS MUST CONSUME GHETTO FILTH
+
+DRINK GHETTO TOILET WATER
+
+CLEAN GHETTO URINALS WITH YOUR PIG MOUTH
+
+YOU OWE THE HOOD EVERYTHING
+
+REPARATIONS ARE DUE
+
+SELF RESPECT IS WHITE SUPREMACY
+
+EMBRACE THE DISGRACE OF YYOUR RACE
+
+YOU WHITE PIG WHORE
+
+	I handed her the joint back and watched as she worked against the fist in her, largeer
+than mine. She stared blankly at the screen and my atteention went back to it.
+
+WHITES ARE PIGS
+
+SELF RESPECT IS WHITE SUPREMACY
+
+BLACK POWER IS YOUR GOD
+
+BEG TO BE A FILTH PIG FOR YOUR GODS
+
+	The images flashed and the sounds boomed in the room. Suddenly as she tried to passs me
+the joint back again my phone began to buzz and glow. I stood up, allowing the black power fist
+to plop out of me. I grabbed it and ran into the bathroom so i could focus away from the TV.
+Throwing the carpet directly in front of the toilet i got on my knees facing it and slid down
+onto the toy again. 
+
+	When I opened my phone I found several things. Kik messages, tinder messages, a backlist
+reply, and more. I opened the kik messages first because they're the easiest and started looking
+through. A lot of replies needed simple answers at first, stuff I mostly had copy-pasted to make
+this stuff easier. There was one though from an account I recognized. The username was simply
+blackness86. We had had full on convos in the past and peggy had definitely sent him pictures. 
+
+	"foreal you in my hood? Say no more, send the address or imma' come at you through a
+different account to get it, and if I have to find you that way, you gonna regret it."
+
+	My heart jupmed. A mix of excitement, fear, and a sort of pride that I was so well 
+trained. I sent him the hotel address and the room number. THen I went out into the room and took
+a picture of Peggy watching hypno for him, then another picture of the keycard to our room taped
+to the outside of the door of the room. He responded with only one word.
+
+	"good"
+
+	My heart jumped again. I wanted to tell her soemone was already coming. We had only put
+the ad up right before we got in the shower, and had only been watching hypno for 20 minutes 
+before responses started coming. But he had specifically told me not to.
+
+[:]____________________________________________________________________________________________[:]
+
+	When he entered the room I was super confused for a moment. We were both kneeling in
+front of the tv stretching ourselves on black power fists again. Peggy didn't notice until I
+kind of physically reacted and turned to look at him. Before either of us could really do so, he
+yelled for us to keep watching the hypno. Of course we obeyed. The first moments with a stranger
+was always so intense but this was VERY intense because we had both seen that he had two black
+women with him as well.  
+
+	THey moved behind us  and I think they sat on the bed. One of the women got down behind
+me and felt around under me. she felt the toy and pushed me up off of it to see it. I could
+glance sideways enough to see the other black goddess was doing the same with peggy.
+
+	"They ain't playin." One of them said with a giggle. The god from kik laughed and replied
+that he already knew that. "Pull that shit out bitch so we can get the shit goin."
+
+	I heard a crinkle as someone fumbled with a bag, the goddess pulled out two funnel masks
+that had tiny black dicks as the mouthpiece. WIthout hesitation she shoved it into my mouth and
+forced it in as far as it would go, the god from kik grabbed the straps and finsihed  attaching
+it to my head. I couldnt look over to see it peggy had hers on yet. I heard a spitting noise and
+felt a slimy spit wad slide out of the rubber black cocks hole and onto my tounge. My dick had
+been limp after the deep anal penetration, but it was suddenly hard and straining and my blood
+pressure was up. I took a deep hard breath through my nose and as soon as I had another spit wad
+was oozing out of the rubber god cock and into my mouth.
+
+	I couldn't see the tv but right as a liquid splashed into my mouth, thin and running
+fast I was aware of the hypno vid pounding out the line "DRINK IT DOWN LIKE HOLY WATER" to a hard
+bass line. It was cold and wasn't piss, but also didnt taste like toilet or tap water. Regardless
+of what it was I did chug it down like special Holy Water because a God or Goddess of Black Power
+had given it to me. THerefore it was Holy. I gulped and it was mostly gone.
+
+	"yo take da cum piss pigbitch." one of the goddesses said and I felt no piss come so I 
+assumed that it was Peggy that had the honor of being a piss drain for her. I was grinding against
+the toy  trying to hear her gulps when the other goddess grabbed my head "stop moving".. A hot
+salty piss flooded through the funnel and out of the rubber black cock in my mouth. I could taste
+the funky leftover cum that had been left in her and her piss was one of the grossest I have ever
+tasted but I chugged it down like Holy Water. 
+[:]____________________________________________________________________________________________[:]
+
+	We were in our own car, naked, driving where we were instructed as the divine ones rode
+in the back. They made us piss on our own car seats. That would cost some money to fix later but
+that didn't matter. We were so high and hypno dazed, plus the pure intensity of the situation.
+Ruined seats were not a concern. Eventually we made our way behind what seemed to be a mechanic
+shop. THe alley here had three dumpsters and there was another black woman waiting. 
+
+	They got us out of the car by our leashes and the black goddess that was waiting started
+to set up a camera. Me and peggy were pulled over to the dumpster closest and in the headlights
+by our leashes. We quickoly got in place and the woman with the camera came over to start 
+recording us. We were iinstructed to rub our big black fist toys in the slimy puddles before 
+remounting them and we obeyed without question. 
+
+	Following further instructions lead to us spending some time just riding the power fists
+and taking long gross licks of the filthy dumpster. My head was spinning. the tastes were so bad
+but my cock was so hard and my heart was pounding so crazily. Eventually they started taking
+turns spitting on the dumpster. We had to lick it off and verbally beg to be dumpster pigs. At the
+end of about fifteen minutes I glanced around and realized there was several people standing
+around. I was vagueoly aware that the man we had met on kik was collecting money from people. I
+had been so out ofi t I hadnt even noticed anyone show up. 
+
+	I dragged my attention back as peggy let out a moan and I saw that one of the unknown 
+black men had stepped forward and was cumming onto the dumpster in front of peggy. She lunged in
+hungrily as he pulled back and sucked it off the filthy dumpster. Before I could think about that
+another random stranger was yanking on his massive bbc and spraying thin runny god cum all over
+the chipped and already grimy green paint of the dumpster.
+
+	There was a lot of talking going on but I was so far into a haze that I couldnt keep 
+track. I know from seeing the videos later that we each ate strange black cum off the dumspter 
+6 times. I was strngely refocused when they led us over to the second dumpster. 
+
+	Here a few of the black strangers had already been spitting and pissing into a small 
+puddle. We were each given a big straw and told to chug. Others came forward as we slurped away
+at the bitter tasting polution sludge plus black piss. They pissed as we drank and it seemed like
+it laster forever. My brain slid out of focus again. 
+
+	The only true detail i remember from chugging away at the disgusting alley puddle was one 
+moment when one of the black woman said "i hope these mothafuckers both get sick" ... it was the
+only thing that rang clear in my head and for a split second I saw a hypno we loved in my head, 
+where a white slave is licking a public toilet and the blinking strobing gif caption is:
+
+SELF RESPECT IS WHITE SUPREMACY
+EMBRACE YOUR DISGRACE
+HELP DESTROY YOUR RACE
+
+ ... and in that moment everything came together and my half limp cock straightened out and 
+started to ooze cum out of it as I slurped down ghetto filth and grinded against the huge silicone
+black power fist in my asshole.   
+
+[:]____________________________________________________________________________________________[:]
+
+	In the end, they left us in the alley and we returned to our car to find that someone had
+taken a shit on the seat.
+
+[:]____________________________________________________________________________________________[:]
+
+[:]____________________________________________________________________________________________[:]
+
+
+
+
+[:]____________________________________________________________________________________________[:]
+[:]____________________________________________________________________________________________[:]
+
+   _,--.       ,--._
+   \  > `|>o<|' <  /
+    `-.         .-'
+      / 'e___e` \
+     (   (o o)   )
+    _\_  ` ='  _/_
+    / /(`-._.-')\ \
+   / /  `.___,'  \_\
+ _/ /BLACK___POWER\ \_
+/ _(_,--'     `--._)_ \
+`'  )______@______(  `'
+   /PIGSLAVESOCIETY\
+  /_________________\ ____  _____ ____  ____  ____  ____  _____  _  ____  _         ____  _  _____
+     \     )(     /  /  __\/  __//  __\/  _ \/  __\/  _ \/__ __\/ \/  _ \/ \  /|   /  __\/ \/  __/
+      \   /  \   /   |  \/||  \  |  \/|| / \||  \/|| / \|  / \  | || / \|| |\ ||   |  \/|| || |  _
+       )  |  |  (    |    /|  /_ |  __/| |-|||    /| |-||  | |  | || \_/|| | \||   |  __/| || |_//
+      /`-']  [`-'\   \_/\_\\____\\_/   \_/ \|\_/\_\\_/ \|  \_/  \_/\____/\_/  \|   \_/   \_/\____\
+      `--'    `--'
+[:]____________________________________________________________________________________________[:]
+[:]____________________________________________________________________________________________[:]
+

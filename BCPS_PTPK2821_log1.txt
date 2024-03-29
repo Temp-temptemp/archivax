@@ -1,0 +1,256 @@
+
+
+                B L A C K C O C K P I G S L U T T U L S G I P K C O C K C A L B
+              T ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⠛⠋⠉⠙⠻⠿⠿⠿⠿⢿⣿⣿⣿⣿⣿⣿ B ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⠛⠋⠉⠙⠻⠿⠿⠿⠿⢿⣿⣿⣿⣿⣿⣿ T
+              U ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⠄⠄⠄⠄⠄⠄⠄⠄⠹⣿⣿⣶⣶⣦⣬⢹⣿⣿ L ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⠄⠄⠄⠄⠄⠄⠄⠄⠹⣿⣿⣶⣶⣦⣬⢹⣿⣿ U
+              L ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠄⠄⠄⣰⣧⡀⠄⠄⠄⠄⠈⢙⡋⣿⣿⣿⢸⣿⣿ A ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠄⠄⠄⣰⣧⡀⠄⠄⠄⠄⠈⢙⡋⣿⣿⣿⢸⣿⣿ L
+              S ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄⠰⠼⠻⣿⣿⣦⣄⠄⠄⠄⠈⢡⣿⣿⣿⢸⣿⣿ C ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄⠰⠼⠻⣿⣿⣦⣄⠄⠄⠄⠈⢡⣿⣿⣿⢸⣿⣿ S
+              G ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄⠸⠤⠕⠛⠙⠷⣿⡆⠄⠄⠄⣸⣿⣿⡏⣼⣿⣿ K ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄⠸⠤⠕⠛⠙⠷⣿⡆⠄⠄⠄⣸⣿⣿⡏⣼⣿⣿ G
+              I ⣿⣿⣿⣿⣿⣿⣿⣿⡇⠄⠄⠄      ⠄⠄⠄⣴⣿⣿⣿⢡⣿⣿⣿ C ⣿⣿⣿⣿⣿⣿⣿⣿⡇⠄⠄⠄      ⠄⠄⠄⣴⣿⣿⣿⢡⣿⣿⣿ I
+              P ⣿⣿⣿⣿⣿⣿⣿⡟⠄⠄⠄⠄⠄⣄ ⢀⠄⠄⠄⣤⣾⣿⣿⣿⢃⣾⣿⣿⣿ O ⣿⣿⣿⣿⣿⣿⣿⡟⠄⠄⠄⠄⠄⣄ ⢀⠄⠄⠄⣤⣾⣿⣿⣿⢃⣾⣿⣿⣿ P
+              K ⣿⣿⣿⣿⣿⠿⣛⣡⣄⣀⠄⠠⢴⣿⣿⡿⣄⣴⣿⣿⣿⣿⣿⢃⣾⣿⣿⣿⣿ C ⣿⣿⣿⣿⣿⠿⣛⣡⣄⣀⠄⠠⢴⣿⣿⡿⣄⣴⣿⣿⣿⣿⣿⢃⣾⣿⣿⣿⣿ K
+              C ⣿⣿⣿⣿⡏⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣩⡽⡁⢸⣿⣿⣿⣿⣿ K ⣿⣿⣿⣿⡏⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣩⡽⡁⢸⣿⣿⣿⣿⣿ C
+              O ⣿⣿⣿⣿⢃⣿⣿⢟⣿⣿⣿⣿⣿⣮⢫⣿⣿⣿⣿⣿⣟⢿⠃⠄⢻⣿⣿⣿⣿ P ⣿⣿⣿⣿⢃⣿⣿⢟⣿⣿⣿⣿⣿⣮⢫⣿⣿⣿⣿⣿⣟⢿⠃⠄⢻⣿⣿⣿⣿ O
+              C ⣿⣿⣿⡿⣸⠟⣵⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣷⣄⢰⡄⢿⣿⣿⣿ I ⣿⣿⣿⡿⣸⠟⣵⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣷⣄⢰⡄⢿⣿⣿⣿ C
+              K ⣿⣿⣿⡇⠏⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠹⡎⣿⣿⣿ G ⣿⣿⣿⡇⠏⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠹⡎⣿⣿⣿ K
+              C ⣍⠛⠿⠄⢰⠋⡉⠹⣿⣿⣿⣿⣿⣿⠙⣿⣿⣿⣿⣿⣿⡟⢁⠙⡆⢡⣿⣿⣿ S ⣍⠛⠿⠄⢰⠋⡉⠹⣿⣿⣿⣿⣿⣿⠙⣿⣿⣿⣿⣿⣿⡟⢁⠙⡆⢡⣿⣿⣿ C
+              A ⣿⡆⠄⣤⠈⢣⣈⣠⣿⣿⣿⣿⣿⠏⣄⠻⣿⣿⣿⣿⣿⣆⣈⣴⠃⣿⣿⣿⣿ L ⣿⡆⠄⣤⠈⢣⣈⣠⣿⣿⣿⣿⣿⠏⣄⠻⣿⣿⣿⣿⣿⣆⣈⣴⠃⣿⣿⣿⣿ A
+              L ⠈⢿⠄⣿⡇⠄⠙⠿⣿⡿⠿⢋⣥⣾⣿⣷⣌⠻⢿⣿⣿⡿⠟⣡⣾⣿⣿⠿⢋ U ⠈⢿⠄⣿⡇⠄⠙⠿⣿⡿⠿⢋⣥⣾⣿⣷⣌⠻⢿⣿⣿⡿⠟⣡⣾⣿⣿⠿⢋ L
+              B ⠳⠄⢠⣿⠇⠄⣷⡑⢶⣶⢿⣿⣿⣿⣽⣿⣿⣿⣶⣶⡐⣶⣿⠿⠛⣩⡄⠄⢸ T ⠳⠄⢠⣿⠇⠄⣷⡑⢶⣶⢿⣿⣿⣿⣽⣿⣿⣿⣶⣶⡐⣶⣿⠿⠛⣩⡄⠄⢸ B
+               T U L S G I P K C O C K C A L B B L A C K C O C K P I G S L U T
+
+
+
+[:]____________________________________________________________________________________________[:]
+[:]____________________________________________________________________________________________[:]
+
+
+[BCPS:HIST:LOG:]
+
+[ : ]
+
+[:]____________________________________________________________________________________________[:]
+
+        "Once upon a time, a couple of early internet hypnotards actually went out and followed
+through... these are their stories."
+
+[:]____________________________________________________________________________________________[:]
+
+
+We were in Los Angeles with some friends on industry business. Me and Peggy sat in the backseat 
+of the car we had all rode down in from NorCal. We had two cars, some of us in each.  Peggy 
+reached over and tapped my phone; Her way of leting me know I had a text waiting. I picked up the 
+samausng Note off my lap and unlocked it. As soon as I opened her text,  I instinctively leaned 
+back and angled my phone away from the window, she had definitely sent something personal. 
+
+	I tapped in my password and opened my text app to find four messages from her.
+
+
+
+
+[Message 1]
+
+	"Hey do you remember godcockplaya from that one kik group? Check it out:"
+
+
+
+[Message 2]
+
+    [Screenshot : Messages with godcockplaya]
+	|-------------------------------| 
+	|  Yo bitch you in L.A. for real|
+	|now? I knew you want' playing  |
+	|when you said you come event-  |
+	|ually                          |
+	|_______________________________|
+
+						|-------------------------------|
+						|  Yes black daddy we are here  |
+						|until tommorrow and I had to   |
+						|hit you up so that we could go |
+						|ahead and present ourselves to |
+						|you as promised so that we can |
+						|worship and serve Black Power  |
+						|in L.A.                        |
+						|i know you didnt believe me at |						
+						|first because we are so kinky  |
+						|and down for real shit but here|
+						|we are and i havent been in any|
+						|city but portland for like 5   |
+						|months black daddy.            |
+						|_______________________________|
+	|-------------------------------| 
+	|  so you hungry for some real  |
+	|nigga shit huh bitch           |
+	|stupid pale pig                |
+	|_______________________________|
+          {image}
+	|-------------------------------| 
+	|      image of godcockplaya    |
+	|        pissing in public      |
+	|             bathroom          |
+	|_______________________________|
+                                                  {image}
+						|-------------------------------|
+						|   image of peggy wearing a    |
+						|   pig nose and a BLACKPOWER   |
+						|     shirt and no pants on     |
+						|     squatting on a public     |
+						|  bus stop bench with a black  |
+						| power fist dildo on the bench |
+						| with the knuckles just against| 
+                                                | her gaping and red pussy lips |
+						|_______________________________|
+	|-------------------------------| 
+	|proper!                        |
+	|when you done?                 |
+	|_______________________________|
+                                         	|-------------------------------|
+						|and will split up by 9         |
+						|_______________________________|       
+
+
+
+
+[Message 3]
+
+    [Screenshot : Messages with godcockplaya]
+	|-------------------------------| 
+	|ok pig bitch i betta have a    |
+	|call by 9 fifteen              |
+	|_______________________________|   
+
+                                            	|-------------------------------|					
+						|yes black daddy                |
+						|*oink*                         |
+						|_______________________________|    
+
+	|-------------------------------| 
+	|be on time or pay the price    |
+	|_______________________________|
+
+                                         	|-------------------------------|					
+						|yes black daddy I wish it was  |
+						|right now                      |
+						|_______________________________| 
+
+	|-------------------------------| 
+	|okay fine you stupid hungry pig|
+	|go stop at a bathroom and send |
+	|live pic of you licking a      |
+	|toilet or pay the price.       |
+	|_______________________________|
+                                         	|-------------------------------|					
+						|yes black daddy                |
+						|as soon as I can get them to   |
+						|stop and I can go in somewhere |
+						|_______________________________| 
+	|-------------------------------| 
+	|waiting on pale pigs dont make |
+	|me happy hurry the fuck up you |
+	|dumb piece of shit             |
+	|_______________________________|
+                                         	|-------------------------------|					
+						|yes black daddy i will obey you|
+						|_______________________________| 
+[:]____________________________________________________________________________________________[:]
+
+
+[Message 4]
+	"fuck. my pighole is wet as fuck rn babe. tell this dumb fuck oscar to stop right now for 
+bathroom break!"	
+
+
+
+	My head swirled for a minute as our entire second life came back in a rush. We had been so
+wrapped up in work lately that we had not been engaging in much kinky play and since my role is so
+dominant in that life I sometimes forget about the BNWO stuff that me and Peggy chose as part of 
+our life. 
+
+	Well, we didn't really choose it, being on the internet since 1995 is what did it. The 
+brainwashing is real. Then when we got put on actual hypno, ... well thats a tale for a different 
+day and I promise I will tell that one too.
+
+	"Bro pull over she's gotta pee like right now." It took two tries for oscar to turn the 
+music down and actually listen for a change but in a minute or two we pulled in to a gas station
+and peggy hopped out. 
+
+	I waited and bullshitted with them and we yelled across at the other car but eventually 
+my  phone buzzed. I opened it discretely again and found that I had been added to a 3 way group 
+with godcockplaya and peggy on kik. The only thing posted since creation, a second ago, was a 
+live picture of peggy with her tits pulled out of her shirt, hanging in the rim of the bowl while
+she licked the back of the rim. My dick instantly went rock hard and strained. Then I immediately
+got self concious and closed my phone to rejoin the conversation.
+
+
+[:]____________________________________________________________________________________________[:]
+
+
+	I pulled my phone out of my pocket in the parking lot and checked the kikgroup. WHile 
+everyone else smoked by the doors I made an excuse to go back to the car and scanned through what 
+I missed. Three other black guys had been added and skimming through I saw that atleast two of 
+them were supposed to be with the one we had spoke to in the past on kik, godcockplaya. My heart 
+raced as a read through a particular text from peggy in response to some question from one of 
+the guys. 
+
+[KiK Message]
+
+	|-------------------------------| 
+	|yes black daddy we are dumb    |
+	|zero limits reparations pigs   |
+	|available for service to Black |
+	|Power                          |
+	|_______________________________|
+
+
+	My dick went instantly rock solid again and I jammed my phone in my pocket. 
+Taking deep breaths to drop my heart rate I headed towards the front of the restaurant.
+
+
+[:]____________________________________________________________________________________________[:]
+
+
+	"Is that them?" I looked up and down the street we had just pulled onto, the one he told 
+us in the kik group. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[:]____________________________________________________________________________________________[:]
+[:]____________________________________________________________________________________________[:]
+
+   _,--.       ,--._
+   \  > `|>o<|' <  /
+    `-.         .-'
+      / 'e___e` \
+     (   (o o)   )
+    _\_  ` ='  _/_
+    / /(`-._.-')\ \
+   / /  `.___,'  \_\
+ _/ /BLACK___POWER\ \_
+/ _(_,--'     `--._)_ \
+`'  )______@______(  `'
+   /PIGSLAVESOCIETY\
+  /_________________\ ____  _____ ____  ____  ____  ____  _____  _  ____  _         ____  _  _____
+     \     )(     /  /  __\/  __//  __\/  _ \/  __\/  _ \/__ __\/ \/  _ \/ \  /|   /  __\/ \/  __/
+      \   /  \   /   |  \/||  \  |  \/|| / \||  \/|| / \|  / \  | || / \|| |\ ||   |  \/|| || |  _
+       )  |  |  (    |    /|  /_ |  __/| |-|||    /| |-||  | |  | || \_/|| | \||   |  __/| || |_//
+      /`-']  [`-'\   \_/\_\\____\\_/   \_/ \|\_/\_\\_/ \|  \_/  \_/\____/\_/  \|   \_/   \_/\____\
+      `--'    `--'
+[:]____________________________________________________________________________________________[:]
+[:]____________________________________________________________________________________________[:]
+[:]____________________________________________________________________________________________[:]
